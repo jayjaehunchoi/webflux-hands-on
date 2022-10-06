@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c0f59fd6-dd56-473c-aa60-b41cdf233cd7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crew-service/src/main/java/com/huni/crewservice/CrewServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/crew-service/src/main/java/com/huni/crewservice/CrewServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crew-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/crew-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webflux/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/webflux/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webflux/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webflux/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -59,10 +61,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.huni.webflux.presentation" />
+      <recent name="com.huni.crewservice.application" />
       <recent name="com.huni.crewservice.domain" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.CrewServiceApplication">
     <configuration name="CrewServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="crew-service.main" />
       <extension name="coverage">
@@ -76,8 +80,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebfluxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="webflux.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huni.webflux.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huni.webflux.WebfluxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.WebfluxApplication" />
         <item itemvalue="Spring Boot.CrewServiceApplication" />
       </list>
     </recent_temporary>
@@ -91,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664930899870</updated>
       <workItem from="1664930901327" duration="1378000" />
-      <workItem from="1665015741719" duration="157000" />
+      <workItem from="1665015741719" duration="999000" />
     </task>
     <servers />
   </component>
