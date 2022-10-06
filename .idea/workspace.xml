@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c0f59fd6-dd56-473c-aa60-b41cdf233cd7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webflux/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webflux/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webmvc/src/main/java/com/huni/webmvc/application/WebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/webmvc/src/main/java/com/huni/webmvc/application/WebService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webmvc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webmvc/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +72,7 @@
       <recent name="com.huni.webmvc.presentation" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.CrewServiceApplication">
+  <component name="RunManager" selected="Spring Boot.WebfluxApplication">
     <configuration name="CrewServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="crew-service.main" />
       <extension name="coverage">
@@ -113,8 +115,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.WebmvcApplication" />
-        <item itemvalue="Spring Boot.CrewServiceApplication" />
         <item itemvalue="Spring Boot.WebfluxApplication" />
+        <item itemvalue="Spring Boot.CrewServiceApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664930899870</updated>
       <workItem from="1664930901327" duration="1378000" />
-      <workItem from="1665015741719" duration="1722000" />
+      <workItem from="1665015741719" duration="2719000" />
     </task>
     <servers />
   </component>
