@@ -4,4 +4,4 @@ http://localhost:8081/api/flux
 * Flux
 * WebClient
 * Netty
-* 8 core (8 thread Netty's event loop)
+* 8 core (8 Netty's event loop)
