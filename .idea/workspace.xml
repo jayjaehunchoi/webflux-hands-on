@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0f59fd6-dd56-473c-aa60-b41cdf233cd7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webflux/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/webflux/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webflux/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webflux/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webmvc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webmvc/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -47,8 +46,10 @@
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -64,6 +65,9 @@
       <recent name="com.huni.webflux.presentation" />
       <recent name="com.huni.crewservice.application" />
       <recent name="com.huni.crewservice.domain" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huni.webmvc.presentation" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.CrewServiceApplication">
@@ -93,10 +97,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebmvcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="webmvc.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huni.webmvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huni.webmvc.WebmvcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.WebfluxApplication" />
+        <item itemvalue="Spring Boot.WebmvcApplication" />
         <item itemvalue="Spring Boot.CrewServiceApplication" />
+        <item itemvalue="Spring Boot.WebfluxApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664930899870</updated>
       <workItem from="1664930901327" duration="1378000" />
-      <workItem from="1665015741719" duration="999000" />
+      <workItem from="1665015741719" duration="1722000" />
     </task>
     <servers />
   </component>
